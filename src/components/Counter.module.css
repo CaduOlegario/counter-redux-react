@@ -1,0 +1,30 @@
+.center { 
+  text-align:center;
+}
+
+.button {
+  border-radius: 5px;
+  border: 2px solid #FF0054;
+  background-color: #FF0054;
+  width: 45px;
+  height: 45px;
+  margin-right: 5px;
+  color: #fff;
+  font-size: 2em;
+  outline: none;
+  font-weight: 900;
+}
+
+.button:hover {
+  border: 2px solid #FF0054;
+  background-color: #fff;
+  color: #FF0054;
+  outline: none;
+  transition: .2s;
+}
+
+.counter {
+  color: #FF5400;
+  font-size: 2.125em;
+  font-weight: bold;
+}
